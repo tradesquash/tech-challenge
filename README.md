@@ -19,6 +19,8 @@ Nesse projeto vamos desenvolver um blog onde é possível criar publicações e 
 - O código Elixir deve seguir as [convenções de nomenclatura](https://hexdocs.pm/elixir/1.12/naming-conventions.html) da linguagem
 - As mensagens de commit presisam seguir o padrão [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+> Você está livre para propor a sua solução contanto que preserve a estrutura e os arquivos já existentes no repositório. Uma boa forma de começar seria realizando um fork do nosso projeto template e começar a partir dele. 
+
 ### O que vamos avaliar?
 
 Falando de código, sabemos que existe muita subjetividade no que diz respeito a "boas práticas". Sendo assim, preferimos ser pragmáticos e utilizar apenas critérios objetivos na hora da avaliação. O que realmente importa pra nós é: 
